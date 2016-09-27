@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">이미지 효과</string>
+    <string name="but_rotate_label">회전</string>
+    <string name="but_translate_label">이동</string>
+    <string name="but_scale_label">크기</string>
+    <string name="but_skew_label">비틀기</string>
+</resources>
